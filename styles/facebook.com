@@ -6,6 +6,10 @@
  width: 800px;
 }
 
+div#contentArea {
+  background-color: #000 !important;
+}
+ 
 .uiHeader,
 div.clearfix.metadata,
 #fbNotificationsList a div img,
@@ -26,7 +30,7 @@ div.clearfix.metadata,
 
 .a
 {
-  color: darkblue;
+  color: darkblue;    
 }
 
 div[id="contentArea"] {
@@ -165,6 +169,7 @@ body {
 background-repeat:repeat !important;
 background-attachment:fixed !important;
 background-position:center !important;
+background-color: #000 !important;
 }
 
 .fbCurrentStory:hover, .connect_widget_like_button, .fbFeedTickerStory:hover, .item a:hover, .fbJewelFlyout li:hover, .uiSideNav a:hover, .fbNubFlyoutBody, .uiButtonConfirm {
