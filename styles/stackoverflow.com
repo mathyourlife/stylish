@@ -5,6 +5,7 @@
 #adzerk1,
 #adzerk2,
 #adzerk3,
+.adzerk-vote,
 #herobox-mini,
 #hireme,
 .headeranon,
