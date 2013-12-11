@@ -1,7 +1,9 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 
-@-moz-document url("http://www.slacker.com/") {
+@-moz-document domain("slacker.com") {
 
+#main-player-share,
+.widget-overlay-help,
 #videoad-container,
 .widget-feedback,
 #overlay-simple-modal--takeover-ad,
