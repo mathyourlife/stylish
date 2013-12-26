@@ -1,6 +1,6 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 
-@-moz-document domain("tweetdeck.com") {
+@-moz-document domain("tweetdeck.twitter.com") {
 
 .column:first-child {
 	width: 522px !important;
