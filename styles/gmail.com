@@ -2,14 +2,22 @@
 
 @-moz-document domain("mail.google.com") {
 
-.xY {
+.xY     /* Message List  */
+{
     font-size: 9px !important;
     height: 1ex;
 }
 
-.apn,
-.mq {
+.apn,    /* Important message arrows */
+.mq,     /*  Top banner ads */
+.Bu.y3   /* right hand people details and ads  */
+{
     display: none !important;
+}
+
+.nH.oy8Mbf.nn.aeN  /* left hand menu bar */
+{
+    width: 150px;
 }
 
 }
