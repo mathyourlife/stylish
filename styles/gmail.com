@@ -15,9 +15,10 @@
     display: none !important;
 }
 
-.nH.oy8Mbf.nn.aeN  /* left hand menu bar */
+.no  /* content width */
 {
-    width: 150px;
+    width: 100%;
 }
+
 
 }
