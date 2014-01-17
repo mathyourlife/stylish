@@ -2,7 +2,8 @@
 
 @-moz-document url-prefix("https://www.google.com/search") {
 
-#taw
+#taw,
+#rhs
 {
     display: none !important;
 }
