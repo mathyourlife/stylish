@@ -1,0 +1,9 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document url-prefix("https://www.google.com/search") {
+
+#taw
+{
+    display: none !important;
+}
+}
