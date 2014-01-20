@@ -6,6 +6,21 @@
  width: 800px;
 }
 
+.UFIComment,
+.UFIFirstComponent,
+.UFIAddComment {
+  background-color: #000 !important;
+}
+
+.textInput,body {
+  color: rgb(255, 255, 255) !important
+}
+
+mbs._5pbx.userContent,body
+{
+  color: rgb(255, 255, 255) !important
+}
+
 div#contentArea {
   background-color: #000 !important;
 }
@@ -25,12 +40,12 @@ div.clearfix.metadata,
 
 .fcg
 {
-    color: #333; 
+    color: #333;
 }
 
 .a
 {
-  color: darkblue;    
+  color: darkblue;
 }
 
 div[id="contentArea"] {
@@ -50,19 +65,19 @@ div[id="rightCol"],
 .friendBrowserMorePager,
 .friendBrowserListUnit,
 .fbChatSidebar,
-.highlightIndicator, 
-.tinyman:after, 
+.highlightIndicator,
+.tinyman:after,
 .fbTimelineSideAds,
 .ego_column,
-.buttonWrap, 
-.fbTimelineSpine, 
-.spinePointer, 
-.topBorder, 
-.bottomBorder, 
-#footerContainer, 
-.middleLink, 
-.slimHeader #pageNav li.tinyman::after, .slimHeader #pageNav li.middleLink::after, 
-.slimHeader #pageNav .middleLink a, 
+.buttonWrap,
+.fbTimelineSpine,
+.spinePointer,
+.topBorder,
+.bottomBorder,
+#footerContainer,
+.middleLink,
+.slimHeader #pageNav li.tinyman::after, .slimHeader #pageNav li.middleLink::after,
+.slimHeader #pageNav .middleLink a,
 .moreSectionsLink
 {
 display:none !important;
@@ -303,7 +318,7 @@ width: 185px !important;
 }
 
 .uiMediaThumb i, .uiProfilePhoto {
-border: 1px solid #000000 !important; 
+border: 1px solid #000000 !important;
 }
 
 #rightCol {
@@ -314,7 +329,7 @@ border: 0px solid #333333 !important;
 
 #right_column, .rightColumnWrapper {
 margin-top: 0px !important;
-padding-top: 0px !important; 
+padding-top: 0px !important;
 position: fixed !important;
 border: 0px solid #333333 !important;
 }
@@ -345,3 +360,4 @@ border: 2px solid #333333 !important;
 }
 
 }
+
