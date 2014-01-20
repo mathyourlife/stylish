@@ -8,7 +8,8 @@
 
 .UFIComment,
 .UFIFirstComponent,
-.UFIAddComment {
+.UFIAddComment,
+.UFIFirstCommentComponent {
   background-color: #000 !important;
 }
 
