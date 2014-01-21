@@ -11,7 +11,8 @@
 .headeranon,
 #careers1,
 #careers2,
-#careers3
+#careers3,
+#sidebar
 {
   display: none !important;
 }
