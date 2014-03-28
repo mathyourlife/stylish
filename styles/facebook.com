@@ -6,6 +6,13 @@
  width: 800px;
 }
 
+.clearfix,
+.uiTextareaAutogrow,
+.fbTimelineTimePeriod {
+    background: none !important;
+}
+    
+.UFIAddCommentInput, 
 .UFIComment,
 .UFIFirstComponent,
 .UFIAddComment,
@@ -31,6 +38,8 @@ div.clearfix.metadata,
 #fbNotificationsList a div img,
 #MercuryJewelThreadList div div div div div img,
 .time
+.fbPageBanner,
+#pageFooter
 {
   display: none !important;
 }
