@@ -10,6 +10,18 @@
     display: none !important
 }
 
+#contentArea {
+    width: 100% !important
+}
+
+#globalContainer {
+    padding-right: 0px !important;
+    width: 100% !important
+}
+
+#contentCol {
+    background-color: #000 !important;
+}
 
 body {
 background-repeat:repeat !important;
