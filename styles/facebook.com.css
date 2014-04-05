@@ -1,0 +1,21 @@
+@namespace url(http://www.w3.org/1999/xhtml);
+
+@-moz-document domain("facebook.com") {
+
+#leftCol,
+#rightCol,
+#pagelet_ticker,
+.fbChatSidebar {
+    display: none !important
+}
+
+
+body {
+background-repeat:repeat !important;
+background-attachment:fixed !important;
+background-position:center !important;
+background-color: #000 !important;
+}
+
+}
+
