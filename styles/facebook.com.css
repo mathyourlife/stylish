@@ -5,7 +5,8 @@
 #leftCol,
 #rightCol,
 #pagelet_ticker,
-.fbChatSidebar {
+.fbChatSidebar,
+._5ciw.rhcFooter {
     display: none !important
 }
 
